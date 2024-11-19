@@ -1,4 +1,4 @@
-package com.alttabblocker;
+package org.FF;
 
 import java.awt.AWTException;
 import java.awt.Robot;
