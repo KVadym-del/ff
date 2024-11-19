@@ -19,12 +19,6 @@ dependencies{
     testImplementation(libs.junit.jupiter)
 
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
-    implementation("net.java.dev.jna:jna-platform:5.13.0")
-    implementation("net.java.dev.jna:jna:5.13.0")
-    implementation("com.github.hypfvieh:dbus-java:3.3.1")
-    implementation("com.github.hypfvieh:dbus-java-core:3.3.1")
-    implementation("org.slf4j:slf4j-simple:2.0.7")
-
     // This dependency is used by the application.
     implementation(libs.guava)}
 
